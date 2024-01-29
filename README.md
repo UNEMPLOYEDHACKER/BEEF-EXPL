@@ -1,8 +1,31 @@
+
+#𝘽𝙀𝙀𝙁-𝙀𝙓𝙋𝙇
+𝘼𝘿𝙑𝘼𝙉𝘾𝙀 𝘿𝘿𝙊𝙎 𝙎𝘾𝙍𝙄𝙋𝙏 𝘽𝘼𝙎𝙀𝘿 𝙊𝙉 𝙂𝙊-𝙇𝘼𝙉𝙂 𝙁𝙊𝙍 𝘼𝙉𝘿𝙍𝙊𝙄𝘿/𝙇𝙄𝙉𝙐𝙓 𝙐𝙎𝙀𝙍𝙎
+
+         ╔═══════════════╗
+         ║𝙐𝙉𝙀𝙈𝙋𝙇𝙊𝙄𝘿-𝙃𝘼𝘾𝙆𝙀𝙍║    
+         ╚═══════════════╝
+
+
+     
+     
+             𝘽𝙀𝙀𝙁-𝙀𝙓𝙋𝙇   
+     
+       ╠═════════════════╣
+
+# 𝙏𝙝𝙖𝙣𝙠𝙨 𝙁𝙤𝙧 𝙐𝙨𝙞𝙣𝙜 𝙊𝙪𝙧 𝘽𝙀𝙀𝙁-𝙀𝙓𝙋𝙇  𝙏𝙤𝙤𝙡
+
+
+
+
+
 ===============================================================================
 
-    Copyright (c) 2006-2024 Wade Alcorn - wade@bindshell.net
-    Browser Exploitation Framework (BeEF) - https://beefproject.com
-    See the file 'doc/COPYING' for copying permission
+    WE MODIFIED BEEF EXPLOITATION TOOL FOR ANDROID USER ...
+
+    ALL CREDIT GOES TO REAL OWNER OF THIS TOOL ...
+
+    WE RESPECT ALL DEVS. WORKS , WE ARE FALCONS WE TRYING TO MAKE THIS WORLD SAFER..
 
 ===============================================================================
 
@@ -26,51 +49,48 @@ __Web:__ https://beefproject.com/
 
 __Bugs:__ https://github.com/beefproject/beef/issues
 
-__Security Bugs:__ security@beefproject.com
+__JOIN US ON TELEGRAM:__ [FALCONS](https://T.ME/FALCON_SECURITY)
 
-__Twitter:__ [@beefproject](https://twitter.com/beefproject)
-
-__Discord:__ https://discord.gg/ugmKmHarKc
 
 Requirements
 ------------
 
-* Operating System: Mac OSX 10.5.0 or higher / modern Linux. Note: Windows is not supported.
-* [Ruby](https://www.ruby-lang.org): 3.0 or newer
-* [SQLite](http://sqlite.org): 3.x
-* [Node.js](https://nodejs.org): 10 or newer
-* The gems listed in the Gemfile: https://github.com/beefproject/beef/blob/master/Gemfile
-* Selenium is required on OSX: `brew install selenium-server-standalone` (See https://github.com/shvets/selenium)
+𝘼 𝘼𝙉𝘿𝙍𝙊𝙄𝘿 𝙋𝙃𝙊𝙉𝙀 𝙒𝙄𝙏𝙃 1𝙜𝙗 𝙨𝙥𝙖𝙘𝙚 
 
 Quick Start
 -----------
 
-__The following is for the impatient.__
+𝙎𝙏𝙀𝙋𝙎 𝙁𝙊𝙍 𝙏𝙀𝙍𝙈𝙐𝙓 𝙐𝙎𝙀𝙍𝙎 𝙉𝙊𝙉-𝙍𝙊𝙊𝙏..
 
-The `install` script installs the required operating system packages and all the prerequisite Ruby gems:
+               ☞𝙔𝙊𝙐 𝙉𝙀𝙀𝘿 𝙏𝙊 𝙄𝙉𝙎𝙏𝘼𝙇𝙇 𝘿𝙀𝘽𝙄𝘼𝙉 𝙄𝙉 𝙏𝙀𝙍𝙈𝙐𝙓 ☜
 
-```
-$ ./install
-```
+➊➢ pkg update && pkg upgrade
 
-For full installation details, please refer to [INSTALL.txt](https://github.com/beefproject/beef/blob/master/INSTALL.txt) or the [Installation](https://github.com/beefproject/beef/wiki/Installation) page on the wiki.
+➋➢ pkg install proot 
 
-Upon successful installation, be sure to read the [Configuration](https://github.com/beefproject/beef/wiki/Configuration) page on the wiki for important details on configuring and securing BeEF.
+➌➢ pkg install proot-distro
+
+➍➢ proot-distro install debian
+
+➎➢ proot-distro login debian
+
+➏➢ apt-get update && apt-get upgrade
+
+➐➣ git clone https://github.com/UNEMPLOYEDHACKER/BEEF-EXPL
+
+➑➣ cd BEEF-EXPL
+
+➒➣ ./install
+
+➓➣ ./beef
+
+➢ 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 - [𝙎𝙐𝘿𝙊 𝙎𝙄𝙍](https://t.me/II_SUDO_II)
+
+       ╔═════════════════╗
+       ║     𝙁𝙊𝙐𝙉𝘿 𝙐𝙎      ║
+       ║ ۞𝙁𝘼𝙇𝘾𝙊𝙉 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔۞║
+       ╚═════════════════╝
+
+[𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/II_HACKER_II)                 [𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈](https://www.instagram.com/unemploid_hacker?igsh=MWRyeWd4Z2JjdnN3aQ==)                             [𝙂𝙄𝙏𝙃𝙐𝘽](https://github.com/UNEMPLOYEDHACKER)
 
 
-Documentation
----
-
-* [User Guide](https://github.com/beefproject/beef/wiki#user-guide)
-* [Frequently Asked Questions](https://github.com/beefproject/beef/wiki/FAQ)
-* [JSdocs](https://beefproject.github.io/beef/index.html)
-
-
-Usage
------
-
-To get started, simply execute beef and follow the instructions:
-
-```
-$ ./beef
-```
