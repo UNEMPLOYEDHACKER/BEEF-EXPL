@@ -103,16 +103,16 @@ install_linux() {
 	info "OS Distribution: ${Distro}"
 	info "Installing ${Distro} prerequisite packages..."
 	if [ "${Distro}" = "Debian" ] || [ "${Distro}" = "Kali" ]; then
-		sudo apt-get update
-		sudo apt-get install curl git build-essential openssl libreadline6-dev zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev autoconf libc6-dev libncurses5-dev automake libtool bison nodejs libcurl4-openssl-dev
+		 apt-get update
+		 apt-get install curl git build-essential openssl libreadline6-dev zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev autoconf libc6-dev libncurses5-dev automake libtool bison nodejs libcurl4-openssl-dev
 		if command_exists rvm || command_exists rbenv; then
 			info "Ruby package Manager exists - Ruby install skipped"
 		else
 			info "No Ruby package manager detected - will install Ruby"
-			sudo apt-get install ruby-dev
+			 apt-get install ruby-dev
 		fi
 	elif [ "${Distro}" = "RedHat" ]; then
-		sudo yum install -y git make gcc openssl-devel gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel bzip2 autoconf automake libtool bison sqlite-devel nodejs
+		 yum install -y git make gcc openssl-devel gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel bzip2 autoconf automake libtool bison sqlite-devel nodejs
 	elif [ "${Distro}" = "SuSE" ]; then
 		IFS=$NORMIFS
 		intpkg=""
@@ -124,18 +124,18 @@ install_linux() {
 		for i in git make gcc libopenssl-devel gcc-c++ patch libreadline6 readline6-devel libz1 zlib-devel libyaml-devel libffi-devel bzip2 autoconf automake libtool bison sqlite3-devel $nodejsver; do
 			rpm --quiet -q "${i}" || intpkg="${intpkg} ${i}"
 		done
-		[ "$intpkg" ] && sudo zypper -n install -l "${intpkg}"
+		[ "$intpkg" ] &&  zypper -n install -l "${intpkg}"
 		IFS=$SCRIFS
 	elif [ "${Distro}" = "blackPanther" ]; then
-		installing --auto git make gcc openssl-devel gcc-c++ patch readline-devel zlib-devel yaml-devel libffi-devel bzip2 autoconf automake libtool bison sqlite-devel nodejs sudo
+		installing --auto git make gcc openssl-devel gcc-c++ patch readline-devel zlib-devel yaml-devel libffi-devel bzip2 autoconf automake libtool bison sqlite-devel nodejs 
 	elif [ "${Distro}" = "Arch" ]; then
-		sudo pacman -Syu
-		sudo pacman -S curl git make openssl gcc readline zlib libyaml sqlite bzip2 autoconf automake libtool bison nodejs
+		 pacman -Syu
+		 pacman -S curl git make openssl gcc readline zlib libyaml sqlite bzip2 autoconf automake libtool bison nodejs
 		if command_exists rvm || command_exists rbenv; then
 			info "Ruby package Manager exists - Ruby install skipped"
 		else
 			info "No Ruby package manager detected - will install Ruby"
-			sudo pacman -S ruby ruby-rdoc
+			 pacman -S ruby ruby-rdoc
 		fi
 	elif [ "${Distro}" = "Alpine" ]; then
 		apk update
@@ -145,12 +145,12 @@ install_linux() {
 
 install_openbsd() {
 
-	sudo pkg_add curl git libyaml libxml libxslt bison node ruby${RUBYSUFFIX}-bundler lame espeak
+	 pkg_add curl git libyaml libxml libxslt bison node ruby${RUBYSUFFIX}-bundler lame espeak
 }
 
 install_freebsd() {
 
-	sudo pkg install curl git libyaml libxslt devel/ruby-gems bison node espeak
+	 pkg install curl git libyaml libxslt devel/ruby-gems bison node espeak
 }
 
 install_mac() {
