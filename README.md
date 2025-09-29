@@ -49,7 +49,7 @@ __Web:__ https://beefproject.com/
 
 __Bugs:__ https://github.com/beefproject/beef/issues
 
-__JOIN US ON TELEGRAM:__ [FALCONS](https://T.ME/FALCON_SECURITY)
+__JOIN US ON TELEGRAM:__ [FALCONS](https://T.ME/Akhand_Aryavart)
 
 
 Requirements
@@ -89,13 +89,13 @@ Quick Start
 𝙋𝘼𝙎𝙎 ➢𝙁𝘼𝙇𝘾𝙊𝙉
 
 
-➢ 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 - [𝙎𝙐𝘿𝙊 𝙎𝙄𝙍](https://t.me/II_SUDO_II)
+➢ 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 - [ 𝙎𝙄𝙍](https://t.me/Nexaq)
 
        ╔═════════════════╗
        ║     𝙁𝙊𝙐𝙉𝘿 𝙐𝙎      ║
-       ║ ۞𝙁𝘼𝙇𝘾𝙊𝙉 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔۞║
+       ║ ۞𝘼𝙆𝙃𝘼𝙉𝘿 𝘼𝙍𝙔𝘼𝙑𝘼𝙍𝙏۞║
        ╚═════════════════╝
 
-[𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/II_HACKER_II)                 [𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈](https://www.instagram.com/unemploid_hacker?igsh=MWRyeWd4Z2JjdnN3aQ==)                             [𝙂𝙄𝙏𝙃𝙐𝘽](https://github.com/UNEMPLOYEDHACKER)
+[𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/Akhand_aryavart)                 [𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈](https://www.instagram.com/unemploid_hacker?igsh=MWRyeWd4Z2JjdnN3aQ==)                             [𝙂𝙄𝙏𝙃𝙐𝘽](https://github.com/UNEMPLOYEDHACKER)
 
 
